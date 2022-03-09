@@ -30,7 +30,7 @@
 
 						<p class="powered-by-wordpress">
 							<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentytwenty' ) ); ?>">
-								<?php _e( 'Powered by WordPress GK CI/CD Works ', 'twentytwenty' ); ?>
+								<?php _e( 'Powered by WordPress GK CI/CD NEW Works ', 'twentytwenty' ); ?>
 							</a>
 						</p><!-- .powered-by-wordpress -->
 
